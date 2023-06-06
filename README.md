@@ -14,9 +14,6 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q891922" title="bombilla">
-<param ve-image url="https://github.com/lucasmerte/yerbamate/blob/main/Yerba_Mate.jpg?raw=true"  
-label="Gauchos drinking mate" description="Photograph. Attribution. Insitution" license="public domain">
-
 
 
 ## History 
