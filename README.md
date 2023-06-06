@@ -14,7 +14,7 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q891922" title="bombilla">
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" 
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" 
 label="Gauchos drinking mate" description="Photograph. Attribution. Insitution" license="public domain">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/5/57/Ilex_paraguariensis_-_Yerba_mate_-_desc-leaves.jpg" label="Plant" description="Photograph" license="Public domain">
 
