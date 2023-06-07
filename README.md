@@ -21,8 +21,6 @@
 
 Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
 
-<param ve-iframe src="https://storiiies.cogapp.com/viewer/a34s1/Gaspar-de-Francia">
-
 ## Preparing Yerba Mate
 
 Mate is a versatile drink and there are many ways of preparing it, depending on the type of yerba mate and liquid you use. There is a huge variety of yerba: with or without stems, finely ground or roughly cut, flavored, sweetened, blended with other herbs. Mate can be drunk with water - hot or cold -, milk or even juice.
