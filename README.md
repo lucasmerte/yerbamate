@@ -19,18 +19,21 @@
 
 ## Showing a Plant Specimen
 
-Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by Frencgh botanist Auguste de Saint-Hilaire. 
+Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
 
 ## Preparing Yerba Mate
 
 Mate is a versatile drink and there are many ways of preparing it, depending on the type of yerba mate and liquid you use. There is a huge variety of yerba: with or without stems, finely ground or roughly cut, flavored, sweetened, blended with other herbs. Mate can be drunk with water - hot or cold -, milk or even juice.
 However, the most popular and traditional way of preparing mate is plain, with hot water. Here's how to prepare yerba mate.
-
 <param ve-video
 	id="f87wvXMa-Rk"
 	title="How to prepare mate."
        start="">
-
-## History 
+       <param ve-video
+	id="f87wvXMa-Rk"
+	title="How to prepare mate."
+auto-play="true" loop="loop" muted="muted" plays-inline="true">
+	
+### History 
 
 The plant was first given its Western scientific name by French botanist Auguste de Saint-Hilaire, who traveled throughout South America between 1816 and 1822. Saint Hilaire first identified Ilex paraguariensis, which he deemed an “interesting” tree, among the ruins of the former Jesuit missions in Paraguay and Brazil.  Like many other European botanists of his time, Saint Hilaire was not only concerned with the classification of plants but also with their medicinal and commercial value, and mate was already one of the most traded commodities in the region. In fact, on the title page of his Plantes usuelles des Brasiliens (1824), Saint Hilaire reproduced a quotation by Swiss botanist Augustin Pyramus de Candolle claiming that “the habitants of the Americas will become more and more independent of the Old World by using similar plants for the same purposes as we do.” Paradoxically, the history of mate is a case study of how American plants were turned into commodities to strengthen European rule over Indigenous peoples rather than to foster their autonomy and independence.
