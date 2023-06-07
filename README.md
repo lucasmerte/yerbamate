@@ -21,7 +21,7 @@
 
 Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
 
-<param ve-iframe src="https://storiiies.cogapp.com/viewer/a34s1/Gaspar-de-Francia&output=embed">
+<param ve-iframe src="https://storiiies.cogapp.com/viewer/a34s1/Gaspar-de-Francia">
 
 ## Preparing Yerba Mate
 
