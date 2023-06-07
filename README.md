@@ -28,7 +28,7 @@ Plant specimens of mate were collected for the first time in 1824, during a scie
 Mate is a versatile drink and there are many ways of preparing it, depending on the type of yerba mate and liquid you use. There is a huge variety of yerba: with or without stems, finely ground or roughly cut, flavored, sweetened, blended with other herbs. Mate can be drunk with water - hot or cold -, milk or even juice.
 However, the most popular and traditional way of preparing mate is plain, with hot water. Here's how to prepare yerba mate.
 
-<param ve-video id="https://www.youtube.com/embed/vA6HIKYkxaE">
+<param ve-video id="https://www.youtube.com/embed/AyWWNiXcVVY1H9ym">
 
 
 ## History 
