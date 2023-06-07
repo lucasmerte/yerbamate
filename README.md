@@ -29,8 +29,8 @@ Mate is a versatile drink and there are many ways of preparing it, depending on 
 However, the most popular and traditional way of preparing mate is plain, with hot water. Here's how to prepare yerba mate.
 
 <param ve-video
-	vid="C0CIRCjoICA"
-	title="Sylbo, The Last Speakers of the Lost Whistling Language.">
+	vid="f87wvXMa-Rk"
+	title="How to prepare mate.">
 
 ## History 
 
