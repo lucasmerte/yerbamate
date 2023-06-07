@@ -31,7 +31,7 @@ However, the most popular and traditional way of preparing mate is plain, with h
 <param ve-video
 	vid="f87wvXMa-Rk"
 	title="How to prepare mate."
-       start="2:28">
+       start="228">
 
 ## History 
 
