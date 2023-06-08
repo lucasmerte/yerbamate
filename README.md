@@ -15,7 +15,7 @@
 <param ve-entity eid="Q733" title="Paraguay">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-map center="-23.08533401364973, -57.90116104230547" zoom="6" title="Yerba mate's range" show-labels>
-<param ve-map basemap="Esri_PhysicalWorld">
+<param ve-map basemap="Esri_WorldPhysical">
 
 ## Showing a Plant Specimen
 
