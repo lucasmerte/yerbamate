@@ -12,10 +12,9 @@
 
 [*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-click-image-zoomto="375,359,194,183">metallic straw, or bombilla</span>, shared by many people, passing from <span data-click-image-zoomto="505,414,195,184">mouth to mouth</span>. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
-<param ve-entity eid="Q70702" title="alkaloid">
-<param ve-entity eid="Q891922" title="bombilla">
-<param ve-image label="Gauchos drinking mate" description="Painting by Candido Lopez" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
-<param ve-image label="Botanical llustration. Koehler's Medicinal-Plants, 1887" description="Koehler's Medicinal-Plants, 1887" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg" region="69,1,342,309">
+<param ve-entity eid="Q733" title="Paraguay">
+<param ve-entity eid="Q155" title="Brazil">
+<param ve-map center="-23.08533401364973, -57.90116104230547" zoom="8" title="Yerba mate's range" show-labels>
 
 ## Showing a Plant Specimen
 
