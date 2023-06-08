@@ -15,7 +15,7 @@
 <param ve-map center="Q1486" zoom="5" title="Yerba mate" show-labels>
 
 ### Rome
-Rome, the capital of Italy, is a large cosmopolitan city with an influential artistic, architectural, and cultural history that dates back almost 3000 years. Ancient ruins such as the Roman Forum and the <span data-mouseover-map-flyto="41.89037782012031, 12.492466910077422">Colosseum</span> testify to the power of the ancient Roman Empire. Vatican City, seat of the Catholic Church, is home to the Basilica of Saint Peter’s and the Vatican Museums, which house world-renowned artistic masterpieces such as the Sistine Chapel frescoed by Michelangelo.
+Rome, the capital of Italy, is a large cosmopolitan city with an influential artistic, architectural, and cultural history that dates back almost 3000 years. Ancient ruins such as the Roman Forum and the <span data-mouseover-map-flyto="41.89293, 12.49058">Colosseum</span> testify to the power of the ancient Roman Empire. Vatican City, seat of the Catholic Church, is home to the Basilica of Saint Peter’s and the Vatican Museums, which house world-renowned artistic masterpieces such as the Sistine Chapel frescoed by Michelangelo.
 <param ve-map
 center="41.89293, 12.49058"
 zoom="5"
