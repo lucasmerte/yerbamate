@@ -16,7 +16,7 @@
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/5/57/Ilex_paraguariensis_-_Yerba_mate_-_desc-leaves.jpg"
 coords="-34.61621986191888, -58.49235383000582"
-size="400, 200" 
+size="312, 210" 
 circle="true">
 
 ## Showing a Plant Specimen
