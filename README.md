@@ -14,6 +14,7 @@
 
 <param ve-map center="-23.156154824566123, -57.89854124893103" zoom="3" title="Mate distribution">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/matedistribution.json">
+<param ve-map basemap="Esri_PhysicalWorld">
 
 ## Showing a Plant Specimen
 
