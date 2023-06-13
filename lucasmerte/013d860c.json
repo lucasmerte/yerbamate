@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Bombilla or straw",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://github.com/lucasmerte/yerbamate/blob/892a5bb07fba7aa53d8a9593ccac3f5fafe8884e/Mate.jpg?raw=true",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1066.7109375,892.4848022460938,161.4744873046875,341.21832275390625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ff70025a-e4f2-4d95-82c8-101b161e9b9e"
+  }
+]
