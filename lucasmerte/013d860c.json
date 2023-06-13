@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Climbing plant",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/7c404494e10db556e57aef2dde161dd7028ba919d0019d4476b2e1ff66d64a8c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:380.4083557128906,404.60516357421875,310.8496398925781,515.302978515625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#60cd12c9-f47b-4a54-bc77-c953e6664f6d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Bombilla or straw",
         "purpose": "commenting"
       }
