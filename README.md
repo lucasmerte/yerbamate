@@ -3,8 +3,8 @@
 <param ve-config 
        title="Yerba Mate"
        author="Lucas Mertehikian"
-       source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
-       banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
        layout="vertical">
       
 ## Introduction
