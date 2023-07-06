@@ -9,9 +9,10 @@
       
 ## Introduction
 
-[*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. The largest mate plantations are near Ciudad del Este. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-mouseover-image-zoomto="893,847,445,374">metallic straw, or bombilla</span>, shared by many people, passing from mouth to mouth</span>. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
+[*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. The largest mate plantations are near Ciudad del Este. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-mouseover-image-zoomto="818,700,481,466">metallic straw</span>, or bombilla, shared by many people, passing from mouth to mouth</span>. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
 <param ve-image url="Mate.jpg" title="Man drinking beverage">
+
 
 ## Showing a Plant Specimen
 
@@ -24,13 +25,13 @@ Plant specimens of mate were collected for the first time in 1824, during a scie
 Mate is a versatile drink and there are many ways of preparing it, depending on the type of yerba mate and liquid you use. There is a huge variety of yerba: with or without stems, finely ground or roughly cut, flavored, sweetened, blended with other herbs. Mate can be drunk with water - hot or cold -, milk or even juice.
 However, the most popular and traditional way of preparing mate is plain, with hot water. Here's how to prepare yerba mate.
 
-<param ve-video vid="vA6HIKYkxaE" title="Preparing Mate">
+<param ve-video vid="vA6HIKYkxaE">
 
 ## Using a Primary Source (Text)
 
 This is how you embed it. 
 
-<param ve-iframe src="https://archive.org/details/b30459400_0001/page/n11/mode/2up?view=theater&output=embed">
+<param ve-iframe src="https://archive.org/details/s5982id1398002/page/20/mode/2up?view=theater">
 
 ### History 
 
