@@ -31,7 +31,7 @@ However, the most popular and traditional way of preparing mate is plain, with h
 
 This is how you embed it. 
 
-<param ve-iframe src="https://archive.org/details/s5982id1398002/page/20/mode/2up?view=theater">
+<param ve-iframe src="https://archive.org/details/s5982id1398002/page/21/mode/2up?view=theater">
 
 ### History 
 
