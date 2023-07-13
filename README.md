@@ -26,12 +26,11 @@ hash-bookmark="false”
 initial-zoom="1"
 height="750">
        
-## Preparing Yerba Mate
+## Using Maps
 
-Mate is a versatile drink and there are many ways of preparing it, depending on the type of yerba mate and liquid you use. There is a huge variety of yerba: with or without stems, finely ground or roughly cut, flavored, sweetened, blended with other herbs. Mate can be drunk with water - hot or cold -, milk or even juice.
-However, the most popular and traditional way of preparing mate is plain, with hot water. Here's how to prepare yerba mate.
+[*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. The largest mate plantations are near Ciudad del Este. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth</span>. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
-<param ve-video vid="vA6HIKYkxaE">
+<param ve-map basemap="Esri_WorldPhysical">
 
 ## Using a Primary Source (Text)
 
