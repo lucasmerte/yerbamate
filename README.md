@@ -20,7 +20,7 @@
 Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
 
 <param ve-knightlab-timeline
-source="1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI"
+source="1F01TdXLUh4iNZDyFJcQlvQrLeDCPdbVbBZXjH-pnfrY"
 timenav-position="bottom"
 hash-bookmark="false”
 initial-zoom="1"
