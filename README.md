@@ -15,11 +15,16 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg" title="botanical illustration">
 
 
-## Showing a Plant Specimen
+## Showing a Timeline
 
 Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
 
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588587"> 
+<param ve-knightlab-timeline
+source="quot;1kjtI9t7HgoZRiDeDyGjXXabVm2b3nZqTYFxnmxQUFFI"
+timenav-position="bottom"
+hash-bookmark="false”
+initial-zoom="1"
+height="750">
        
 ## Preparing Yerba Mate
 
