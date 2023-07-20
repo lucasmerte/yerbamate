@@ -16,16 +16,14 @@
 	zoom="3"
 	title="Mate"
 	time-dimension
-time-interval="-008000/-007000"
+time-interval="100/1500"
 duration="P10000Y"
 max-zoom="5"
 date-format="YYYY"
 fps="3"
 auto-play="true"
 	prefer-geojson>
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mapmodel.json"
-	stroke-width="0">
-
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mapmodel.json">
 ## Showing a Timeline
 
 Plant specimens of mate were collected for the first time in 1824, during a scientific expedition in South America led by French botanist Auguste de Saint-Hilaire. 
