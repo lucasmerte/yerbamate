@@ -16,7 +16,7 @@
 	zoom="3"
 	title="Mate"
 	prefer-geojson>
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mate.json"
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mapmodel.json"
 	stroke-width="0">
 
 ## Showing a Timeline
