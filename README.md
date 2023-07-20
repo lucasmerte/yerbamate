@@ -14,13 +14,7 @@
 <param ve-map title="Mate."
 	center="26.788396, 7.708674"
 	zoom="3"
-	time-dimension
-	time-interval="-008000/-0070000"
-	duration="P10000Y"
-	max-zoom="5"
-	date-format="YYYY"
-	fps="3"
-	auto-play="true">
+	prefer-geojson>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mate.json">
 
 ## Showing a Timeline
