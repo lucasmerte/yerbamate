@@ -16,7 +16,7 @@
 	zoom="3"
 	title="Mate"
 	time-dimension
-time-interval="-8000/-7000"
+time-interval="-008000/-007000"
 duration="P10000Y"
 max-zoom="5"
 date-format="YYYY"
