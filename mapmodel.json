@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Algeria",
-        "Time": "-008000"
+        "Time": "00100"
       },
       "geometry": {
         "coordinates": [
@@ -39,8 +39,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "undefined",
-        "Time": "-007000"
+        "Name": "Libya",
+        "Time": "00200"
       },
       "geometry": {
         "coordinates": [
