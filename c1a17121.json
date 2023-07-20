@@ -24,6 +24,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Note 3",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/c1a17121650c400c06faf9415a08ece0dc7a2a1d5b6bb0911683ff2baaeb1785",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:187.806640625,235.31983947753906,102.1224365234375,205.0922393798828"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#eae82253-8e4c-4dd5-b4eb-8ff70ff5a5c2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Note 2",
         "purpose": "commenting"
       }
