@@ -15,6 +15,13 @@
 	center="26.788396, 7.708674"
 	zoom="3"
 	title="Mate"
+	time-dimension
+time-interval="-8000/-7000"
+duration="P10000Y"
+max-zoom="5"
+date-format="YYYY"
+fps="3"
+auto-play="true"
 	prefer-geojson>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/lucasmerte/yerbamate/main/mapmodel.json"
 	stroke-width="0">
