@@ -4,7 +4,8 @@
        title="Yerba"
        author="Lucas Mertehikian"
        source-image="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
+       layout="vertical"
       
 ## Introduction
 
