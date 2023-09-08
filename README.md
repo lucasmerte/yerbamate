@@ -20,7 +20,7 @@
 
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/f/f8/EB1911_-_Mat%C3%A9_%28Ilex_paraguariensis%29.jpg">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Yerba_mate_palo_santo.jpg">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/47/Yerba_mate_palo_santo.jpg">
 
 ## Showing a Timeline
 
